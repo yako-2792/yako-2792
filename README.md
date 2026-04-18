@@ -1,6 +1,3 @@
-from ds_python_interpreter import create_file
-
-readme_content_en = """
 <div align="center">
   <h1 style="border-bottom: none; color: #0056b3;">Hi there! I'm Alejandro Gil 👋</h1>
   <p style="font-size: 1.2em; color: #555;">
